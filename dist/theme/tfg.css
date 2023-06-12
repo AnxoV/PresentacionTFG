@@ -31,11 +31,11 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-heading3-size: 1.3em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
-  --r-link-color: #42affa;
-  --r-link-color-dark: #068de9;
-  --r-link-color-hover: #8dcffc;
-  --r-selection-background-color: rgba(66, 175, 250, 0.75);
-  --r-selection-color: #fff;
+  --r-link-color: #EA5D06;
+  --r-link-color-dark: #C75006;
+  --r-link-color-hover: #E9762E;
+  --r-selection-background-color: rgb(21, 39, 134, 0.75);
+  --r-selection-color: #FFF;
 }
 
 .reveal-viewport {
